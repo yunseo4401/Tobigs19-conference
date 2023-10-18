@@ -27,3 +27,11 @@
 |19기|[김은호]|
 |19기|[윤세휘]|
 |19기|[최태순]|
+
+
+## fake_news
+1. news data & factcheck data crawling
+2. crawling data preprocessing(summerization + labeling)
+3. STS + NLI model(by KLUE & roBERTa)
+4. final sentence and judgment of T/F about news
+5. making library
