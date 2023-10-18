@@ -35,3 +35,7 @@
 3. STS + NLI model(by KLUE & roBERTa)
 4. final sentence and judgment of T/F about news
 5. making library
+
+## 참고 자료
+[](https://github.com/Huffon/klue-transformers-tutorial.git)https://github.com/Huffon/klue-transformers-tutorial.git
+
