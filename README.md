@@ -11,7 +11,7 @@
 ## 발표 🙋
 
 컨퍼런스 발표 ppt입니다. 자세한 분석 내용은 아래 링크를 통해 확인해주세요!  
-
+- [Slide](https://docs.google.com/viewer?url=https://github.com/choitaesoon/Tobigs19-conference/blob/main/%EA%B9%A8%EB%81%97%ED%95%9C%EA%B8%B0%EC%82%AC%EB%A7%8C%EB%93%A4%EA%B8%B0_%EC%9E%90%EC%97%B0%EC%9D%B8%EC%9D%B4%EB%8B%A4.pdf?raw=T)
 
 
 ## 멤버 🧑‍🤝‍🧑
