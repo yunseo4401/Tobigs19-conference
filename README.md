@@ -28,8 +28,16 @@
 |19기|[윤세휘]|
 |19기|[최태순]|
 
+## 내용 정리
 
-## fake_news
+### clean_news
+1. consider both title and content
+2. title : learning clickbaitClass
+3. content : textRank + ko-BART + Jaccard Similarity
+4. model : FNN model(title_prob + content_prob)
+5. making library
+
+### fake_news
 1. news data & factcheck data crawling
 2. crawling data preprocessing(summerization + labeling)
 3. STS + NLI model(by KLUE & roBERTa)
